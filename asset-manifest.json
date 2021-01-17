@@ -1,23 +1,26 @@
 {
   "files": {
     "main.css": "/enchantment-calculator/static/css/main.3218a707.chunk.css",
-    "main.js": "/enchantment-calculator/static/js/main.37b72cdf.chunk.js",
-    "main.js.map": "/enchantment-calculator/static/js/main.37b72cdf.chunk.js.map",
-    "runtime-main.js": "/enchantment-calculator/static/js/runtime-main.d5e4c994.js",
-    "runtime-main.js.map": "/enchantment-calculator/static/js/runtime-main.d5e4c994.js.map",
-    "static/js/2.4a2bb42b.chunk.js": "/enchantment-calculator/static/js/2.4a2bb42b.chunk.js",
-    "static/js/2.4a2bb42b.chunk.js.map": "/enchantment-calculator/static/js/2.4a2bb42b.chunk.js.map",
-    "static/js/3.b62a438e.chunk.js": "/enchantment-calculator/static/js/3.b62a438e.chunk.js",
-    "static/js/3.b62a438e.chunk.js.map": "/enchantment-calculator/static/js/3.b62a438e.chunk.js.map",
+    "main.js": "/enchantment-calculator/static/js/main.cdb2f264.chunk.js",
+    "main.js.map": "/enchantment-calculator/static/js/main.cdb2f264.chunk.js.map",
+    "runtime-main.js": "/enchantment-calculator/static/js/runtime-main.f5826642.js",
+    "runtime-main.js.map": "/enchantment-calculator/static/js/runtime-main.f5826642.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/enchantment-calculator/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.66c98369.chunk.js": "/enchantment-calculator/static/js/2.66c98369.chunk.js",
+    "static/js/2.66c98369.chunk.js.map": "/enchantment-calculator/static/js/2.66c98369.chunk.js.map",
+    "static/js/3.e2006a30.chunk.js": "/enchantment-calculator/static/js/3.e2006a30.chunk.js",
+    "static/js/3.e2006a30.chunk.js.map": "/enchantment-calculator/static/js/3.e2006a30.chunk.js.map",
     "index.html": "/enchantment-calculator/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/enchantment-calculator/static/css/2.ae9f1eb3.chunk.css.map",
     "static/css/main.3218a707.chunk.css.map": "/enchantment-calculator/static/css/main.3218a707.chunk.css.map",
-    "static/js/2.4a2bb42b.chunk.js.LICENSE.txt": "/enchantment-calculator/static/js/2.4a2bb42b.chunk.js.LICENSE.txt",
+    "static/js/2.66c98369.chunk.js.LICENSE.txt": "/enchantment-calculator/static/js/2.66c98369.chunk.js.LICENSE.txt",
     "static/media/enchanted_book.4d456f0e.gif": "/enchantment-calculator/static/media/enchanted_book.4d456f0e.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.d5e4c994.js",
-    "static/js/2.4a2bb42b.chunk.js",
+    "static/js/runtime-main.f5826642.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.66c98369.chunk.js",
     "static/css/main.3218a707.chunk.css",
-    "static/js/main.37b72cdf.chunk.js"
+    "static/js/main.cdb2f264.chunk.js"
   ]
 }
