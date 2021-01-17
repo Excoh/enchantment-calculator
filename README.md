@@ -4,4 +4,4 @@ A github page to calculate how much enchantments will cost on an Anvil in minecr
 
 Tested for 1.16.
 
-[![Project Status](https://img.shields.io/badge/project%20status-under%20construction-yellow.svg)]()
+[![Project Status](https://img.shields.io/badge/project%20status-under%20construction-yellow.svg)](https://excoh.github.io/enchantment-calculator/)
