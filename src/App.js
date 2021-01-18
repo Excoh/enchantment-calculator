@@ -4,6 +4,8 @@ import Dropdown from 'react-bootstrap/Dropdown';
 import Container from 'react-bootstrap/Container'
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
+import Button from 'react-bootstrap/Button'
+import Form from 'react-bootstrap/Form'
 import './App.css';
 
 function App() {
@@ -11,9 +13,18 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <Container fluid="true">
+        <h1>
+          Enchantment Calculator
+        </h1>
+        <Container fluid="md">
           <Row>
             <Col>
+              <p>Rework Count</p>
+              <div class="d-inline-flex">
+                <Button variant="primary">-</Button>
+                <Form.Control type="input" size="sm"/>
+                <Button variant="primary">+</Button>
+              </div>
               <Dropdown>
                 <Dropdown.Toggle variant="success" id="dropdown-basic">
                 Target
@@ -25,6 +36,12 @@ function App() {
               </Dropdown>
             </Col>
             <Col>
+              <p>Rework Count</p>
+              <div class="d-inline-flex">
+                <Button variant="primary">-</Button>
+                <Form.Control type="input" size="sm"/>
+                <Button variant="primary">+</Button>
+              </div>
               <Dropdown>
                 <Dropdown.Toggle variant="success" id="dropdown-basic">
                 Sacrifice
@@ -38,9 +55,7 @@ function App() {
             </Col>
           </Row>
         </Container>
-        <p>
-          Enchantment Calculator
-        </p>
+
       </header>
     </div>
   );
